@@ -1,0 +1,14 @@
+tiers:
+  - monthly_amount_in_cents: 500
+    name: コーヒー1杯分
+    description: 応援、ありがとうございます！
+    welcome_message: スポンサーありがとうございます！
+
+  - monthly_amount_in_cents: 1000
+    name: しっかり応援
+    description: 開発活動の励みになります！
+
+  - monthly_amount_in_cents: 10000
+    name: スーパーサポーター
+    description: すべての活動を全力で応援！
+    welcome_message: 特別な感謝をお送りします！
